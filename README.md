@@ -1,5 +1,8 @@
 # Brito V1 — Matriz 10
 
+**ORCID de Josiano de Brito:** [0009-0008-9399-1670](https://orcid.org/0009-0008-9399-1670)
+
+
 ## Autor e referências públicas
 
 **Josiano de Brito** — pesquisador independente, Varginha, Minas Gerais, Brasil. Autor do **Brito V1 / Matriz 10**.
